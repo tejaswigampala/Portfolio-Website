@@ -66,10 +66,6 @@ git clone https://github.com/tejaswigampala/Portfolio-Website.git
 
 ---
 
-## **🔥 What This README Includes**
-✅ **Homepage, About, Skills, Projects, Contact (with images)**  
-✅ **Formatted Cleanly with Sections & Icons**  
-✅ **Live Portfolio Link + How to Run Instructions**  
 
 
 
