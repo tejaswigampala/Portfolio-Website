@@ -1,73 +1,85 @@
-# 🌟 Tejaswini's Portfolio Website 🚀
+# 🌟 Tejaswini Gampala - Portfolio
 
-![Homepage](images/homepage.png)
+Welcome to my personal portfolio website! This project showcases my skills, education, projects, and ways to connect with me.
 
-Welcome to my **personal portfolio website**! This site showcases my **skills, education, projects, and contact information** in a clean and modern design.
-
----
-
-## 📜 **About Me**
-![About](images/about.png)
-
-I am **Tejaswini Gampala**, a passionate **Computer Science graduate**, skilled in **Python, JavaScript, SQL, and React.js**. I love **problem-solving, coding, and building user-friendly applications**.
+## 📌 Live Demo
+🔗 [View My Portfolio](https://tejaswigampala.github.io/)
 
 ---
 
-## 🎓 **Education**
-![Education](images/Education.png)
-
-- **M.Sc Computer Science** - PB Siddhartha College, Vijayawada (87%)  
-- **B.Sc Computer Science** - Surya Degree College, Jangareddygudem (85%)  
-- **Intermediate (MPC)** - Surya Junior College, Jangareddygudem (80%)  
-- **SSC (10th)** - Sri Saraswathi High School, Vegavaram (80%)  
-
----
-
-## 🛠️ **Technical Skills**
-![Technical Skills](images/Technical Skills.png)
-
-- **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap  
-- **Backend:** PHP, Node.js  
-- **Database:** SQL, Firebase  
-- **Tools:** Git, GitHub, VS Code, Figma  
-
----
-
-## 💼 **Projects**
-![Projects](images/Project.png)
-
-### 📌 **Portfolio Website**
-- Designed and developed a **responsive personal portfolio** using HTML, CSS, and JavaScript.  
-- Showcases my **skills, education, and projects** in a clean, modern layout.  
-- **🔗 [GitHub Repository](https://github.com/tejaswigampala/Portfolio-Website)**  
-
-### 📌 **Crop Yield Prediction**
-- Machine Learning model for **predicting crop yield and recommending fertilizers** using Python.  
-- **🔗 [GitHub Repository](https://github.com/tejaswigampala)**  
-
----
-
-## 📞 **Get in Touch**
-![Contact](images/Contact.png)
-
-🔗 **LinkedIn:** [Tejaswini Gampala](https://www.linkedin.com/in/tejaswini-gampala-b95413263)  
-📧 **Email:** [tejaswi9392@gmail.com](mailto:tejaswi9392@gmail.com)  
-🐙 **GitHub:** [tejaswigampala](https://github.com/tejaswigampala)  
-
----
-
-## 🚀 **How to Run This Project**
-1️⃣ Clone the repository:
-```sh
-git clone https://github.com/tejaswigampala/Portfolio-Website.git
+## 📷 Screenshots
 
 
+### 🏠 Home Page  
+![Home](assets/img/home.png)
+
+
+
+### 👩‍💼 About  
+![About](assets/img/about.png)
+
+
+
+### 🎓 Education  
+![Education](assets/img/education.png)
+
+
+
+### 💡 Skills  
+![Skills](assets/img/image.png)
+
+
+
+### 📂 Projects  
+![Projects](assets/img/project.png)
+
+
+
+### 📞 Contact  
+![Contact](assets/img/contact.png)
 
 
 ---
 
+## 📖 About Me  
+Hi, I'm **Tejaswini Gampala**, a **Master’s in Computer Science** student with a passion for technology and creativity.  
+I specialize in **Python, JavaScript, SQL, and React.js**, and love solving problems & building user-friendly applications.
 
+🔹 Always curious, always evolving—let’s create something amazing! 🎯
 
+---
 
+## 🎓 Education  
+📍 **M.Sc Computer Science** | PB Siddhartha College, Vijayawada (2022 - 2024) | **87%**  
+📍 **B.Sc Computer Science** | Surya Degree College, Jangareddygudem (2019 - 2022) | **85%**  
+📍 **Intermediate (MPC)** | Surya Junior College, Jangareddygudem (2017 - 2019) | **80%**  
+📍 **SSC (10th)** | Sri Saraswathi High School, Vegavaram (2017) | **80%**  
 
+---
 
+## 💻 Technical Skills  
+✔ HTML, CSS, JavaScript  
+✔ Python, PHP, SQL  
+✔ Bootstrap, React.js  
+✔ Figma, UI/UX Design  
+
+---
+
+## 🚀 Projects  
+
+### 📌 [Portfolio Website](https://github.com/tejaswigampala)  
+🔹 Designed a **personal portfolio** using HTML, CSS, JavaScript.
+
+### 📌 [Crop Yield Prediction](https://github.com/tejaswigampala)  
+🔹 ML model predicting **crop yield** & recommending fertilizers using Python.
+
+---
+
+## 📬 Get in Touch  
+📩 **Email:** [tejaswi9392@gmail.com](mailto:tejaswi9392@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/tejaswini-gampala-b95413263](https://www.linkedin.com/in/tejaswini-gampala-b95413263)  
+🐙 **GitHub:** [github.com/tejaswigampala](https://github.com/tejaswigampala)  
+
+---
+
+📌 **Made with ❤️ by Tejaswini Gampala**  
