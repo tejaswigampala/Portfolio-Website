@@ -26,7 +26,7 @@ Welcome to my personal portfolio website! This project showcases my skills, educ
 
 
 ### 💡 Skills  
-![Skills](assets/img/image.png)
+![Skills](assets/img/skills.png)
 
 
 
