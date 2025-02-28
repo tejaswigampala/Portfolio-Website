@@ -35,8 +35,10 @@ Welcome to my personal portfolio website! This project showcases my skills, educ
 
 
 
+
 ### 📞 Contact  
 ![Contact](assets/img/contact.png)
+
 
 
 ---
